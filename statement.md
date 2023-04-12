@@ -4,6 +4,7 @@ This Python template lets you get started quickly with a simple one-page playgro
 
 ```python runnable
 print('Hello World!')
+print('试试能不能保存到gitHub')
 ```
 
 # Advanced usage
