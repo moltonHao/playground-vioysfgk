@@ -12,6 +12,11 @@ print("Hello!" * 3)
 test_string = "哈喽世界，但现在这是我们新的字符串string"
 # 切片是仅定位或处理字符串部分的地方。 为此，请使用方括号 （[]）。广场内 括号 您可以设置开始、停止和步长。或在其他 单词、起点、终点以及计数多少
 print(test_string[1:6])
+#每隔一个字母打印一次
+print(test_string[::2])
+#反转字符串
+print(test_string[::-1])
+
 
 ```
 
