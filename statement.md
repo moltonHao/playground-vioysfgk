@@ -17,7 +17,7 @@ print(test_string[::2])
 #反转字符串
 print(test_string[::-1])
 #在某个索引处打印单个字符
-print(test_string[4])
+print(test_string[9])
 
 ```
 
